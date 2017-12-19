@@ -410,27 +410,27 @@ border: 1px solid #e1e1e1;
 
 /***** Vendors tables *****/
 
-.vendors-2-containn p {
+.vendors-container p {
     margin-top: 30px;
     font-size: 22px;
     line-height: 36px;
     text-align: left;
 }
 
-.vendors-2-box {
+.vendors-box {
 	padding-top: 30px;
 	padding-bottom: 20px;
 }
 
-.vendors-2-table { margin: 20px 0 0 0; padding: 25px; border: 4px solid #eee; }
-.vendors-2-table-best { margin-top: 0; border-color: #2ba560; }
+.vendors-table { margin: 20px 0 0 0; padding: 25px; border: 4px solid #eee; }
+.vendors-table-best { margin-top: 0; border-color: #2ba560; }
 
-.vendors-2-table h3 { margin: 0; }
-.vendors-2-table h4 { margin-top: 5px; font-size: 22px; font-weight: 300; line-height: 36px; }
+.vendors-table h3 { margin: 0; }
+.vendors-table h4 { margin-top: 5px; font-size: 22px; font-weight: 300; line-height: 36px; }
 
-.vendors-2-table-divider span { display: inline-block; width: 100%; height: 1px; border-bottom: 1px dotted #ddd; }
+.vendors-table-divider span { display: inline-block; width: 100%; height: 1px; border-bottom: 1px dotted #ddd; }
 
-.vendors-2-table-icon {
+.vendors-table-icon {
 	width: 80px;
 	height: 80px;
     margin: 25px auto 0 auto;
@@ -441,15 +441,15 @@ border: 1px solid #e1e1e1;
     color: #fff;
     line-height: 34px;
 }
-.vendors-2-table-icon i, .vendors-2-table-icon span { vertical-align: middle; }
+.vendors-table-icon i, .vendors-2-table-icon span { vertical-align: middle; }
 
-.vendors-2-table-price { margin: 25px 0 10px 0; font-size: 18px; line-height: 44px; }
-.vendors-2-table-price span { color: #555; font-size: 44px; }
+.vendors-table-price { margin: 25px 0 10px 0; font-size: 18px; line-height: 44px; }
+.vendors-table-price span { color: #555; font-size: 44px; }
 
-.vendors-2-table-description { font-size: 18px; line-height: 32px; }
-.vendors-2-table-description span { display: inline-block; padding-right: 10px; color: #444; }
+.vendors-table-description { font-size: 18px; line-height: 32px; }
+.vendors-table-description span { display: inline-block; padding-right: 10px; color: #444; }
 
-.vendors-2-table-button { margin: 25px 0 10px 0; }
+.vendors-table-button { margin: 25px 0 10px 0; }
 
 
 /***** About us *****/
@@ -478,7 +478,7 @@ border: 1px solid #e1e1e1;
 }
 
 .faq-social a { margin: 0 10px 0 0; color: #ddd; }
-.faq-social a:hover, .about-social a:focus { color: #ddd; opacity: 0.6; }
+.faq-social a:hover, .faq-social a:focus { color: #ddd; opacity: 0.6; }
 
 
 /***** Contact us *****/
